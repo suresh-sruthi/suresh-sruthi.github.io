@@ -224,12 +224,12 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  #publications:
-    #output: true
-    #permalink: /:collection/:path/
-  #portfolio:
-    #output: false
-    #permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: false
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -274,14 +274,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  #- scope:
-  #    path: ""
-  #    type: portfolio
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _talks
   - scope:
       path: ""
