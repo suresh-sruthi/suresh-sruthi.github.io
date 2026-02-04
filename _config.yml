@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Sruthi Suresh"
 title_separator          : "-"
 name                     : &name "Sruthi Suresh"
@@ -227,9 +227,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
