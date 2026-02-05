@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "A catalogue of Type 2 active galactic nuclei in the 6dF Galaxy Survey"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Active galactic nuclei (AGNs) are the compact, energetic central regions of galaxies, powered by supermassive black holes that accrete surrounding gas and dust. Their optical spectra can be identified by strong emission-line signatures (broad and/or narrow lines). Those showing only narrow lines are classified as ‘Type 2’ AGN. Extensive surveys like SDSS cover AGN in the Northern Sky, but the equivalent coverage in the Southern Sky remains limited. We address this by presenting a new catalogue of Type 2 AGN from the 6dF Galaxy Survey (6dFGS), which has 136,304 spectra covering ~ 17,000deg⁠, mainly of low-redshift galaxies. We use a median absolute deviation cut on the continuum-fitted spectrum to select emission line galaxies. AGN were identified by fitting the 6dFGS spectra with a modified Python QSO fitting tool (PyQSOFit). All selected spectra were visually inspected and corrected for fitting errors where necessary. 10,492 narrow emission line galaxies were identified in 6dFGS, including ∼5000 Type 2 AGN classified from the Baldwin–Phillips–Terlevich (BPT) diagram. They have a median redshift of z ~ 0.032 and a median [O iii] luminosity of ~ 40.04'
+date: 2025-09-18
+venue: 'Monthly Notices of the Royal Astronomical Society'
+paperurl: 'https://academic.oup.com/mnras/article/543/4/3649/8257488'
+citation: 'Sruthi Suresh, Wei Jeat Hon, Rachel L Webster, Christian Wolf, Christopher A Onken, A catalogue of Type 2 active galactic nuclei in the 6dF Galaxy Survey, Monthly Notices of the Royal Astronomical Society, Volume 543, Issue 4, November 2025, Pages 3649–3663, https://doi.org/10.1093/mnras/staf1591'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
