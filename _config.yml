@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sruthi Suresh"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Ph.D. Candidate"
   location         : "Melbourne, Australia"
   employer         : "University of Melbourne"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=ANkCHq8AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-2657-2413"
