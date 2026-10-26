@@ -3,7 +3,7 @@ title: "Changing look behaviour in 6dFGS AGN"
 collection: talks
 type: "Talk"
 permalink: /talks/3D_VoG
-venue: "UC-Berkeley Institute for Testing Science"
+venue: "Australia wide online talk series - 3D View of Galaxies"
 date: 2025-12-09
 location: "Melbourne, Australia"
 ---
